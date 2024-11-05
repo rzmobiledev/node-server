@@ -1,0 +1,31 @@
+20243805	10:38:10	cfa0735e-218d-4cb6-af02-95b34414ecfd	Error: Not allowed by CORS
+20243905	10:39:52	b37314c0-616e-40db-8d0f-b5b2e7c653df	Error: Not allowed by CORS
+20244005	10:40:01	70bfd422-4115-4ac2-bbd1-9f7904161ea6	Error: Not allowed by CORS
+20244005	10:40:15	c360add5-2a2b-4e5e-8c03-bb1a9f80201a	Error: Not allowed by CORS
+20244005	10:40:17	93959f74-e840-497f-9309-95ad2f5735fc	Error: Not allowed by CORS
+20244005	10:40:39	d4346ec4-712c-4720-bdb2-b203e4d5d299	Error: Not allowed by CORS
+20244005	10:40:39	bb5afa6a-9812-4443-b58c-944c2e238117	Error: Not allowed by CORS
+20244105	10:41:09	48ded7d4-297c-45fe-8df8-6bb820f044a1	Error: Not allowed by CORS
+20244105	10:41:09	13b2330f-9b93-479a-b84b-7df80c810f61	Error: Not allowed by CORS
+20244105	10:41:42	8748c2af-d9e3-4815-b6bf-73302fe539bd	Error: Not allowed by CORS
+20244105	10:41:42	668d79cf-272c-4030-9388-a918c120d57c	Error: Not allowed by CORS
+20244505	10:45:52	eeed1e6a-ede9-4106-b920-3a28f9e47a01	Error: Not allowed by CORS
+20244505	10:45:52	b3b81235-457e-4d84-9f38-9240bded668b	Error: Not allowed by CORS
+20244505	10:45:59	4ead003e-d6f5-4c2e-86c8-85c6392097b1	Error: Not allowed by CORS
+20244505	10:45:59	c8b26df2-61dd-4a09-bb84-4ca6591a5381	Error: Not allowed by CORS
+20245505	13:55:21	804db756-a8d9-4de3-868f-fc591b57772c	SyntaxError: Expected ',' or '}' after property value in JSON at position 14
+20240105	14:01:52	cdfefec9-9023-462a-b95e-2d22bc6e3ed5	ReferenceError: parsetInt is not defined
+20240105	19:01:49	4c827592-c636-4dbf-a2e7-1f36e57cb779	TypeError: res.senStatus is not a function
+20243705	19:37:57	3b9c2a7f-d6a0-4dd0-8c62-dc01a4ec0ca1	JsonWebTokenError: jwt malformed
+20244005	19:40:38	9f646608-f612-4255-a0bc-9566e70b3e26	JsonWebTokenError: jwt malformed
+20244505	19:45:23	7fc293e6-434f-45bf-834b-6d43ffa6e8f6	JsonWebTokenError: jwt malformed
+20241805	20:18:58	22140713-a237-4fd0-a14c-317f8094b1fe	JsonWebTokenError: verify must be called asynchronous if secret or public key is provided as a callback
+20242805	20:28:37	adb7fe9c-145a-4e6b-98da-eb5fef2b4fdf	JsonWebTokenError: verify must be called asynchronous if secret or public key is provided as a callback
+20242805	20:28:40	23c759c3-440f-4bba-b73b-908ab9835659	JsonWebTokenError: verify must be called asynchronous if secret or public key is provided as a callback
+20242805	20:28:41	311fa492-2ddd-41ca-98e5-c183e39bb164	JsonWebTokenError: verify must be called asynchronous if secret or public key is provided as a callback
+20242805	20:28:41	d51e727d-e425-42d0-a39c-129893928cf2	JsonWebTokenError: verify must be called asynchronous if secret or public key is provided as a callback
+20242805	20:28:41	712142e2-8114-4ac4-912d-50547d1bb2a3	JsonWebTokenError: verify must be called asynchronous if secret or public key is provided as a callback
+20242805	20:28:41	e558ea8f-cab2-4979-9375-9b7d2a3ca940	JsonWebTokenError: verify must be called asynchronous if secret or public key is provided as a callback
+20242805	20:28:41	9fa6397a-b748-4500-9992-f99bd8d04308	JsonWebTokenError: verify must be called asynchronous if secret or public key is provided as a callback
+20242805	20:28:41	0b0c945c-8a9c-4d4c-b0b7-76d132980452	JsonWebTokenError: verify must be called asynchronous if secret or public key is provided as a callback
+20242805	20:28:42	cc81b316-82e2-4dfd-aa5f-afcb0ef9e189	JsonWebTokenError: verify must be called asynchronous if secret or public key is provided as a callback
