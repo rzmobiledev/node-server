@@ -29,3 +29,4 @@
 20242805	20:28:41	9fa6397a-b748-4500-9992-f99bd8d04308	JsonWebTokenError: verify must be called asynchronous if secret or public key is provided as a callback
 20242805	20:28:41	0b0c945c-8a9c-4d4c-b0b7-76d132980452	JsonWebTokenError: verify must be called asynchronous if secret or public key is provided as a callback
 20242805	20:28:42	cc81b316-82e2-4dfd-aa5f-afcb0ef9e189	JsonWebTokenError: verify must be called asynchronous if secret or public key is provided as a callback
+20240006	10:00:04	f1bb4409-2022-4122-afbd-b6aeef3f9250	TypeError: Cannot read properties of undefined (reading 'roles')
