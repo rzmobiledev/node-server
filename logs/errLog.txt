@@ -30,3 +30,11 @@
 20242805	20:28:41	0b0c945c-8a9c-4d4c-b0b7-76d132980452	JsonWebTokenError: verify must be called asynchronous if secret or public key is provided as a callback
 20242805	20:28:42	cc81b316-82e2-4dfd-aa5f-afcb0ef9e189	JsonWebTokenError: verify must be called asynchronous if secret or public key is provided as a callback
 20240006	10:00:04	f1bb4409-2022-4122-afbd-b6aeef3f9250	TypeError: Cannot read properties of undefined (reading 'roles')
+20243507	12:35:13	5b00a797-e79b-4066-aba1-50d46bc05ae9	SyntaxError: Expected ':' after property name in JSON at position 17
+20244007	12:40:18	230119cb-586f-4f20-a5e2-b2b0d8555d68	SyntaxError: Expected ':' after property name in JSON at position 16
+20244007	12:40:29	c3166aa2-7a1b-436a-8770-f043a5cb0467	SyntaxError: Expected ':' after property name in JSON at position 16
+20244107	12:41:36	dc006f0f-16f0-4726-98c9-f35c18e0fe7a	SyntaxError: Expected ':' after property name in JSON at position 16
+20244207	12:42:07	ed1990f7-fee3-4b02-9ac1-9c6d8ccbd2dd	SyntaxError: Expected ':' after property name in JSON at position 16
+20244307	12:43:32	e6a19da5-c03b-42ed-bff8-fa416bb7335c	SyntaxError: Expected ':' after property name in JSON at position 16
+20244407	12:44:59	8d300f50-4f04-4de6-82e6-a5c7375430da	SyntaxError: Expected ',' or '}' after property value in JSON at position 49
+20245007	13:50:41	573b4861-e91f-4c56-9d6f-3f09dadd2f56	SyntaxError: Unexpected string in JSON at position 38
