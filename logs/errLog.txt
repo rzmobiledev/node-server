@@ -39,3 +39,5 @@
 20244407	12:44:59	8d300f50-4f04-4de6-82e6-a5c7375430da	SyntaxError: Expected ',' or '}' after property value in JSON at position 49
 20245007	13:50:41	573b4861-e91f-4c56-9d6f-3f09dadd2f56	SyntaxError: Unexpected string in JSON at position 38
 20245813	20:58:07	6fc0d0b5-503d-4654-9a11-8421d08c4302	Error: Not allowed by CORS
+20245404	22:54:05	da716e68-905e-4bc0-af84-75fdf8e4af6e	Error: Not allowed by CORS
+20245604	22:56:28	d4f77332-0970-4060-9e97-86563ef4b005	Error: Not allowed by CORS
